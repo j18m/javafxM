@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javafx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javafx_jar</output-path>
+    <root id="archive" name="javafx.jar">
+      <element id="module-output" name="javafx" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/httpcore-4.4.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/log4j-core-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/slf4j-log4j12-1.7.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
